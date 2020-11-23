@@ -4,7 +4,7 @@ Simple API Rest With SF5
 # Install 
 `composer install`
 
-# RESTfull 
+# RESTfull With JMSSerialize Only 
 `curl -X GET \
   http://localhost:8001/orange/kangaroo \
   -H 'cache-control: no-cache' \
